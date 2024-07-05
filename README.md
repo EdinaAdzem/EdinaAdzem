@@ -25,6 +25,6 @@ In case you want to learn more, check out my social media below!
 </p>
 
 # Current Projects
- - 💬 movies
- - 💬 zootopia
- - 💬 The Guessinator
+ - 💬 [movies](https://github.com/EdinaAdzem/Movies)
+ - 💬 [zootopia](https://github.com/EdinaAdzem/My-Zootopia)
+ - 💬 [The Guessinator](https://github.com/EdinaAdzem/Hackaton-Guessinator)
